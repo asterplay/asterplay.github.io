@@ -34,7 +34,7 @@ When you post messages on the help forums or message boards of our Site, the inf
 
 ### 2.3 Information Collected from You About Others.
 
-If you decide to invite a third party to create an Account, we will collect your and the third party's names and e-mail addresses in order to send an e-mail and follow up with the third party. You or the third party may contact us at rolling.abc@outlook.com to request the removal of this information from our database.
+If you decide to invite a third party to create an Account, we will collect your and the third party's names and e-mail addresses in order to send an e-mail and follow up with the third party. You or the third party may contact us at contact@asterplay.com to request the removal of this information from our database.
 
 ## 3 The purpose of collecting information functions:
 
@@ -98,4 +98,4 @@ If we make material changes to how we use Personal Information collected from ch
 
 ## 8 Contact us
 
-We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at rolling.abc@outlook.com.
+We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at contact@asterplay.com.
