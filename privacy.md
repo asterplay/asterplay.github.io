@@ -10,27 +10,23 @@ Effective date of this privacy policy：2019/05/15
 
 ### 2.1 Information You Provide to us.
 
-#### 2.1.1 We may collect Personal Data from you, such as your e-mail address, and password when you create an account to log in to our network ("Account").
+#### 2.1.1 When you order the Service on our Site or App, we will collect all information necessary to complete the transaction, including your name, payment information, billing information and shipping information. 
 
-#### 2.1.2 When you order the Service on our Site or App, we will collect all information necessary to complete the transaction, including your name, payment information, billing information and shipping information. 
+#### 2.1.2 We retain information on your behalf, such as files and messages that you store using your Account.
 
-#### 2.1.3 We retain information on your behalf, such as files and messages that you store using your Account.
+#### 2.1.3 If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
 
-#### 2.1.4 If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
+#### 2.1.4 When you participate in one of our surveys, we may collect additional profile information.
 
-#### 2.1.5 When you participate in one of our surveys, we may collect additional profile information.
+#### 2.1.5 We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, and other requested information if you contact us via e-mail regarding support for the Service.
 
-When you post messages on the help forums or message boards of our Site, the information contained in your posting will be stored on our servers and other users will be able to see it.
-
-#### 2.1.6 We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, product registration number, and other requested information if you contact us via e-mail regarding support for the Service.
-
-#### 2.1.7 We may also collect Personal Data, such as at other points in our Site or App that state that Personal Data is being collected.
+#### 2.1.6 We may also collect Personal Data, such as at other points in our Site or App that state that Personal Data is being collected.
 
 ### 2.2 Information Collected via Technology.
 
-#### 2.2.1 To make our Site and App more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your mobile device type, IMEI, IMSI, application version, browser type, computer or mobile operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer or mobile device when you use the Internet, which may vary from session to session), domain name, ID for advertising,  ads data, information about the way you use the application and/or a date/time stamp for your visit of the Site or use of the App.
+#### 2.2.1 To make our Site and App more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your mobile device type, application version, mobile operating system, ID for advertising, ads data.
 
-#### 2.2.2 We also use cookies, URL information and mobile analytics tools to gather information regarding the date and time of your visit of the Site or use of the App and the information for which you searched and which you viewed. "Cookies"are small pieces of information that a website sends to your device's storage while you are viewing a web site or using our App. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your device until you delete them) to provide you with a more personal and interactive experience on our Site and App. Persistent Cookies can be removed by following Internet browser help file directions or by clearing application specific information on your mobile device.
+#### 2.2.2 We also use mobile analytics tools to gather information regarding the date and time of your visit of the Site or use of the App and the information for which you searched and which you viewed.
 
 ### 2.3 Information Collected from You About Others.
 
