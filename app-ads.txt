@@ -8,3 +8,7 @@ indexexchange.com, 191086, RESELLER
 pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+
+
+facebook.com, 500205067335069, RESELLER, c3e20eee3f780d68
+facebook.com, 247003249787128, RESELLER, c3e20eee3f780d68
