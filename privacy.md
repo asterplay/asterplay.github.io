@@ -58,7 +58,7 @@ Our apps, games, web sites or other services may contain links to other sites. I
 ASTER PLAY never knowingly or willingly collect any personal data concerning children under 16 years of age. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
 ## 2. [DATA SECURITY](#DataSecurity)
-
+<a name="AWUS036NH"></a>
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we use reasonable efforts to protect your Personal Data, we cannot guarantee its absolute security.
 
 ## 3. [YOUR RIGHTS AS A DATA SUBJECT](#UserDataRights)
