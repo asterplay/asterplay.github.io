@@ -1,7 +1,5 @@
 **ASTER PLAY Privacy Policy**
 
-[toc]
-
 ASTER PLAY (“we”, “us”, “our”)  is an international software development company specialized in the mobile apps and games. We are committed to maintaining customer privacy through an ethical performance culture that is based on trust, simplicity and confidence. It is one of ASTER PLAY’s core principles to secure customer information while using our mobile applications (“products”), and provide privacy protection that is critical in maintaining trust and providing better services. The purpose of this policy is to provide you with all the important information and explanations about how and why some of your data may be collected and processed by ASTER PLAY when you use one of our applications or games. 
 
 This policy also aims to remind you about your rights and to provide you with all the elements you need to exercise them.
