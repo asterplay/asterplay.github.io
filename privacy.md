@@ -6,7 +6,7 @@ This policy also aims to remind you about your rights and to provide you with al
 
 Should you have any questions related to this policy or our practices around privacy and data protection in general, please don’t hesitate to contact ASTER PLAY Data Protection Officer as indicated in the contact section of this policy. 
 
-##1. DATA COLLECTION AND USE
+## 1. DATA COLLECTION AND USE
 
 **Email and Other Information That You Provide to Us**
 
@@ -57,11 +57,11 @@ Our apps, games, web sites or other services may contain links to other sites. I
 
 ASTER PLAY never knowingly or willingly collect any personal data concerning children under 16 years of age. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-##2. DATA SECURITY
+## 2. DATA SECURITY
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we use reasonable efforts to protect your Personal Data, we cannot guarantee its absolute security.
 
-##3. YOUR RIGHTS AS A DATA SUBJECT
+## 3. YOUR RIGHTS AS A DATA SUBJECT
 
 You have the following rights on your personal data and the data processing:
 
@@ -84,7 +84,7 @@ You can exercise your rights by sending us a clear and specific request by email
 
 The fulfillment of data subject rights listed above will depend on the category of Personal Data and the processing activity. Upon request, ASTER PLAY will provide you with information about whether we hold any of your personal information. If possible, ASTER PLAY will communicate your request directly to another data controller when the processing is based on consent or contract.
 
-##4. DISCLAIMERS
+## 4. DISCLAIMERS
 
 In case any competent government authority requests us to disclose any personal user identification information in accordance with relevant legal procedures, laws or regulations, we will provide such personal user information according to the requirements of the government authority or for the purpose of public safety. ASTER PLAY will assume no liability for any disclosure in such case.
 
@@ -98,13 +98,13 @@ ASTER PLAY assumes no responsibility when it or a third party uses your personal
 
 ASTER PLAY assumes no responsibility when your personal information is disclosed due to unpredictable and inevitable risks of the internet, including without limitation: virus attack, hijacking, temporary site closure or server closure resulted from government control and inevitable technical defects of the software due to technical level at the time of development.
 
-##5. CHANGES TO THIS PRIVACY POLICY
+## 5. CHANGES TO THIS PRIVACY POLICY
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 **This policy is effective as of February 2, 2021**
 
-##6. CONTACT US
+## 6. CONTACT US
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact our ASTER PLAY Data Protection Officer:  dpo@asterplay.com . Address: 80 South Bridge Road #04-02 Golden Castle Building, Singapore (058710)
 
