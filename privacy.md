@@ -61,7 +61,7 @@ ASTER PLAY never knowingly or willingly collect any personal data concerning chi
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we use reasonable efforts to protect your Personal Data, we cannot guarantee its absolute security.
 
-## 3. YOUR RIGHTS AS A DATA SUBJECT
+## 3. [YOUR RIGHTS AS A DATA SUBJECT](#UserDataRights)
 
 You have the following rights on your personal data and the data processing:
 
