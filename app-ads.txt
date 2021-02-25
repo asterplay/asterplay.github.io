@@ -105,7 +105,7 @@ rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
 
 adcolony.com, f3dec692cd2b1a1fc0d96b122854753c, DIRECT, 1ad675c9de6b5176
 
-ironsrc.com, [yourIronosurcePublisherAccountID], Direct , 79929e88b2ba73bc
+ironsrc.com, 254957, Direct , 79929e88b2ba73bc
 appnexus.com, 2480, RESELLER, f5ab79cb980f11d1
 improvedigital.com, 1114, RESELLER
 indexexchange.com, 185996, RESELLER
