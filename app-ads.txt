@@ -187,3 +187,15 @@ rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
 smartadserver.com, 3117, RESELLER
 startapp.com, smt, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
+
+webeyemob.com, 70096, RESELLER
+openx.com, 540679900, RESELLER, 6a698e2ec38604c6
+adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 123476257, RESELLER
+indexexchange.com, 182257, RESELLER
+appnexus.com, 6849, RESELLER
+rubiconproject.com, 15268, RESELLER
+rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
+pubmatic.com, 160565, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160565, DIRECT, 5d62403b186f2ace
