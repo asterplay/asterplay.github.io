@@ -252,3 +252,20 @@ verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 video.unrulymedia.com, 2169000724, RESELLER
 
 verve.com, 14619, RESELLER, 0c8f5958fc2d6270
+
+adcolony.com, 2851dffbb0d51b5e, RESELLER, 1ad675c9de6b5176
+advertising.com, 28650, RESELLER
+algorix.co, 54236, RESELLER, 5b394c12fea27a1d
+contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100308, RESELLER, 03113cd04947736d
+improvedigital.com, 2002, RESELLER
+indexexchange.com, 194730, RESELLER
+inmobi.com, ebc44eef6c104f7fbf7bc52ee29f7939, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160319, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
+undertone.com, 4102, RESELLER
+verve.com, 14592, RESELLER, 0c8f5958fc2d6270
+yieldmo.com, 2807970144171533194, RESELLER
