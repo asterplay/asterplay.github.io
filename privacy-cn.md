@@ -1,110 +1,107 @@
-**ASTER PLAY Privacy Policy**
+**星游未来隐私政策**
 
-ASTER PLAY (“we”, “us”, “our”)  is an international software development company specialized in the mobile apps and games. We are committed to maintaining customer privacy through an ethical performance culture that is based on trust, simplicity and confidence. It is one of ASTER PLAY’s core principles to secure customer information while using our mobile applications (“products”), and provide privacy protection that is critical in maintaining trust and providing better services. The purpose of this policy is to provide you with all the important information and explanations about how and why some of your data may be collected and processed by ASTER PLAY when you use one of our applications or games. 
+星游未来（北京）科技有限公司（以下简称“星游未来”、“我们”、“我们的”）是一家专注于移动应用程序和游戏开发的软件开发公司。在使用我们的移动应用程序（以下称为“产品”）时，我们致力于保护客户信息的安全性，并提供关键的隐私保护，以维护信任并提供更好的服务。本政策的目的是为您提供有关当您使用我们的应用程序或游戏时，星游未来可能收集和处理您的某些数据的所有重要信息和解释。
 
-This policy also aims to remind you about your rights and to provide you with all the elements you need to exercise them.
+本政策还旨在提醒您了解您的权利，并为您提供行使这些权利所需的所有要素。
 
-Should you have any questions related to this policy or our practices around privacy and data protection in general, please don’t hesitate to contact ASTER PLAY Data Protection Officer as indicated in the contact section of this policy. 
+如果您对本政策或我们的隐私和数据保护实践有任何问题，请随时联系星游未来数据保护官员，联系方式在本政策的联系部分中有说明。
 
-## 1. DATA COLLECTION AND USE
+## 1. 收据收集和使用
 
-**Email and Other Information That You Provide to Us**
+**您向我们提供的电子邮件和其他信息**
 
-If you provide us feedback or contact us via e-mail, we will collect your e-mail address, as well as any other content included in the e-mail, in order to send you a reply. We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, and other requested information if you contact us via e-mail regarding support for the Service. We will only use your email address to contact you for custom support purpose and sending ASTER PLAY related news. We do not share your email address with anyone outside of the ASTER PLAY .
+如果您向我们提供反馈意见或通过电子邮件与我们联系，我们将收集您的电子邮件地址，以及电子邮件中包含的任何其他内容，以便回复您。我们还会收集您自愿提供给我们的其他类型个人数据，例如您的操作系统和版本，以及如果您通过电子邮件联系我们以寻求支持服务时所请求的其他信息。我们只会使用您的电子邮件地址与您联系，提供定制支持和发送与星游未来相关的新闻。我们不会与星游未来以外的任何人分享您的电子邮件地址。
 
-**Third Party Service Providers**
+**第三方服务提供商**
 
-When you install and use  ASTER PLAY mobile apps & games,  these applications will use third party services that may collect and process some of your data for advertising and analytics purpose. You will find a list of our partners the privacy policies of their services that describe their practices and allow you to exercise your rights directly toward them hereafter.
+当您安装和使用星游未来的移动应用程序和游戏时，这些应用程序将使用第三方服务，可能会收集和处理您的一些数据用于广告和分析目的。您将在以下部分找到我们合作伙伴的列表以及他们的隐私政策，其中描述了他们的做法并允许您直接行使您的权利。
 
-* **Ad Partners** that allow us to monetize the ad inventory of our apps and provide users with free products and services. Those partners usually collect data via their own tools (Software Development Kits or “SDK”). You will find a list of our partners implementing advertising SDKs through our applications in the section below.
+* **广告合作方** 允许我们为用户提供免费产品和服务，通过在应用程序内展示广告来变现。这些合作伙伴通常会通过他们自己的工具（软件开发工具包或“SDK”）收集数据。您将在下面的部分找到我们的应用程序中实施广告SDK的合作伙伴列表。
 
-* **Analytics Platforms** that provide us with tools and technologies that allow us to better understand how users interact with our services and will help us improve it. Those partners also usually collect data via their own SDKs. You will find a list of our partners implementing analytical SDKs through our applications in the section below.
+* **分析平台** 为我们提供工具和技术以更好地了解用户如何与我们的产品进行交互并帮助我们改进产品。这些合作伙伴通常也会通过他们自己的SDK收集数据。您将在下面的部分找到我们的应用程序中实施分析SDK的合作伙伴列表。
 
-* **App Market & Store** that allows you download / purchase our apps and games. When you download or make an in-app purchase, the app market & store on your device may collect personal information from you. You will find a list of app markets & stores publishing our applications in the section below.
+* **应用市场** 允许您下载/购买我们的应用程序和游戏的应用市场。当您下载或进行应用内购买时，您的设备上的应用市场可能会收集您的个人信息。您将在下面的部分找到发布我们应用程序的应用市场的列表。
 
-Link to privacy policy of third party service providers used by the ASTER PLAY apps and games:
+点击以下链接，查看星游未来应用程序和游戏使用的第三方服务提供商的隐私政策：
 
 *   [Google Play](https://www.google.com/policies/privacy/)
-*   [Apple App Store](https://www.apple.com/legal/privacy/)
-*   [Huawei AppGallery](https://consumer.huawei.com/en/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Facebook](https://www.facebook.com/about/privacy/update/printable)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
-*   [AppLovin](https://www.applovin.com/privacy/)
-*   [Vungle](https://vungle.com/privacy/)
-*   [AdColony](https://www.adcolony.com/privacy-policy/)
+*   [苹果 App Store](https://www.apple.com/legal/privacy/)
+*   [华为应用市场](https://privacy.consumer.huawei.com/legal/hiapp/privacy-statement.htm?country=CN&branchid=2&language=zh_CN)
+*   [OPPO软件商店](https://activity-cdo.heytapimage.com/cdo-activity/static/202210/25/store-PrivacyHeyTap/100200/index.html?c=0&agreementType=3)
+*   [vivo应用商店](https://www.vivo.com.cn/about-vivo/vivo-privacy-policy)
+*   [穿山甲](https://www.csjplatform.com/privacy)
+*   [优量汇](https://e.qq.com/optout.html)
+*   [快手广告](https://u.kuaishou.com/home/detail/1290)
 *   [AppsFlyer](https://www.appsflyer.com/product/security-and-privacy/)
-*   [IronSource](https://www.ironsrc.com/privacy-policy/)
 
-**Log Data**
+**日志数据**
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+我们想要告知您，每当您使用我们的服务时，在应用程序出现错误的情况下，我们会通过第三方产品收集关于您手机的数据和信息，称为日志数据。此日志数据可能包括您的设备Internet协议（“IP”）地址、设备名称、操作系统版本、使用我们的服务时的应用程序配置、使用服务的日期和时间以及其他统计信息。
 
-**Sharing on Social Networks**
+**社交网络分享**
 
-Some of our apps and games offers features allowing users to share content on social networks. When you interact with such social media widgets or “share buttons”, these social network companies may collect information about you and/or your device and connection. your interactions with these services are governed by the respective privacy policies of the companies providing these services. For more information on the data protection and privacy practices of these companies, you can refer to their specific policies listed below:
+我们的一些应用程序和游戏提供了在社交网络上分享内容的功能。当您与这些社交媒体小部件或“分享按钮”进行交互时，这些社交网络公司可能会收集有关您和/或您的设备和连接的信息。您与这些服务的互动受这些公司提供的相应服务的隐私政策的管辖。有关这些公司的数据保护和隐私实践的更多信息，请参阅它们的具体政策，下面列出了一些示例：
 
-* Facebook: https://www.facebook.com/about/privacy/
-* Twitter: https://twitter.com/privacy
+* 微信: https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy
+* QQ: https://privacy.qq.com/policy/tencent-privacypolicy
 
-**Links to Other Sites**
+**其他网站的链接**
 
-Our apps, games, web sites or other services may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+我们的应用程序、游戏、网站或其他服务可能包含指向其他网站的链接。如果您点击第三方链接，您将被引导至该网站。请注意，这些外部网站不由我们运营。因此，我们强烈建议您查阅这些网站的隐私政策。我们对任何第三方网站或服务的内容、隐私政策或做法都没有控制权，也不承担任何责任。
 
-**Children’s Data**
+**儿童数据**
 
-ASTER PLAY never knowingly or willingly collect any personal data concerning children under 16 years of age. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+星游未来永远不会有意地收集任何关于16岁以下儿童的个人数据。如果您是父母或监护人，并且您知道您的孩子向我们提供了个人信息，请与我们联系，以便我们能够采取必要的措施。
 
-## 2. DATA SECURITY
+## 2. 数据安全
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we use reasonable efforts to protect your Personal Data, we cannot guarantee its absolute security.
+我们重视您对我们提供个人信息的信任，因此我们努力采取商业上可接受的方式来保护它。但请记住，互联网传输或电子存储的方法并不是100%安全的。因此，尽管我们采取合理的措施保护您的个人数据，但无法保证其绝对安全。
 
-## 3. YOUR RIGHTS AS A DATA SUBJECT
+## 3. 您作为数据主体的权利
 
-You have the following rights on your personal data and the data processing:
+您对个人数据和数据处理有以下权利：
 
-* **Right to data** - Right to receive information about the processing of your Personal Data, prior to processing as well as during the processing, upon request.
+* **信息权** - 在处理之前以及处理过程中，您有权要求接收有关个人数据处理的信息。
 
-* **Right of access** - Aside from the information about the processing of your Personal Data, you have the right to receive a copy of your Personal Data undergoing processing.
+* **访问权** - 除了个人数据处理的信息外，您有权收到正在进行处理的个人数据的副本。
 
-* **Right to rectification** - We should process accurate Personal Data; if you discover inaccuracy, you have the right to seek rectification of inaccurate Personal Data.
+* **更正权** - 我们应处理准确的个人数据；如果您发现不准确的个人数据，您有权要求更正不准确的个人数据。
 
-* **Right to erasure ("right to be forgotten")**  - You have the right to erasure of your Personal Data, but only in specific cases stipulated by law, e.g., if there is no legally recognized title on our part for further processing of your Personal Data.
+* **删除权（“被遗忘权”）**  - 您有权删除您的个人数据，但仅在法律规定的特定情况下，例如，我们没有法律认可的理由继续处理您的个人数据。
 
-* **Right to object** - Applies to cases of processing carried out in legitimate interest. You have the right to object to such processing, on grounds relating to your particular situation, and we are required to assess the processing in order to ensure compliance with all legally binding rules and applicable regulations. In case of direct marketing, we shall cease processing Personal Data for such purposes after the objection.
+* **异议权** - 适用于基于合法利益进行的处理。您有权基于与您个人情况相关的理由反对此类处理，我们有责任评估处理以确保遵守所有法律约束规定和适用法规。在涉及直接营销的情况下，我们将在异议后停止出于此类目的的个人数据处理。
 
-* **Right to withdraw consent** - In the case of processing based on your consent, you can withdraw your consent at any time, by using the same method (if technically possible) you used to provide it to us (the exact method will be described in more detail with each consent when you provide it). The withdrawal of consent shall not affect the lawfulness of processing based on your consent before its withdrawal.
+* **撤回同意权** - 在基于您的同意进行处理的情况下，您可以随时撤回您的同意，使用与您提供同意的方式相同（如果在技术上可行）。撤回同意不会影响在撤回之前基于您的同意进行的处理的合法性。
 
-* **Right to restriction of processing** - You have the right to restriction of processing of your Personal Data if: You are contesting the accuracy of your Personal Data, for a period enabling us to verify the accuracy of your Personal Data; the processing is unlawful and you oppose the erasure of the Personal Data and request the restriction of its use instead; we no longer need the Personal Data for the purposes of the processing, but they are required by you for the establishment, exercise or defence of legal claims; or you have objected to processing of your Personal Data, and there is a pending verification whether our legitimate grounds override your interests.
-* **Right to lodge a complaint** - You can also lodge a complaint with a supervisory authority by sending a letter to the competent authority in Singapore.
+* **限制处理权** - 如果符合以下情况，您有权限制处理您的个人数据：您对个人数据的准确性提出异议，以使我们能够验证个人数据的准确性；处理是非法的，您反对删除个人数据并要求限制其使用；我们不再需要个人数据来实现处理目的，但您需要个人数据来建立、行使或维护法律索赔；或者您已经提出异议以后，等待我们验证是否基于优先权合法利益进行处理。
 
-You can exercise your rights by sending us a clear and specific request by email to dpo@asterplay.com. Your request will be handled by our team within a reasonable delay from the date of its receipt and granted or refused subject to our legal obligations and within the limits of your rights.
+* **投诉权** - 您还可以向监管机构投诉，通过给新加坡的主管机构发送信函进行投诉。
 
-The fulfillment of data subject rights listed above will depend on the category of Personal Data and the processing activity. Upon request, ASTER PLAY will provide you with information about whether we hold any of your personal information. If possible, ASTER PLAY will communicate your request directly to another data controller when the processing is based on consent or contract.
+您可以通过发送明确而具体的请求电子邮件至 dpo@asterplay.com 行使您的权利。我们的团队将在收到请求后合理的时间内处理，并根据我们的法律义务和您的权利限制而予以批准或拒绝。
 
-## 4. DISCLAIMERS
+上述数据主体权利的实现将取决于个人数据的类别和处理活动。根据您的要求，星游未来将向您提供是否持有您的个人信息的信息。如果可能，当处理基于同意或合同时，我们将直接将您的请求传达给另一个数据控制者。
 
-In case any competent government authority requests us to disclose any personal user identification information in accordance with relevant legal procedures, laws or regulations, we will provide such personal user information according to the requirements of the government authority or for the purpose of public safety. ASTER PLAY will assume no liability for any disclosure in such case.
+## 4. 免责声明
 
-ASTER PLAY will not assume any responsibility for any of your personal information that is disclosed for your own reasons (for example, when you voluntarily disclose to other people your password or when you share your account with other people).
+如果任何有权的政府机构根据相关法律程序、法律或法规要求我们披露任何个人用户身份信息，我们将根据政府机构的要求或出于公共安全目的提供该等个人用户信息。在此种情况下，星游未来对于任何披露不承担任何责任。
 
-ASTER PLAY assumes no responsibility for any personal information that is lost, disclosed, or falsified due to forces beyond ASTER PLAY’s control, including but not limited to events that may affect normal network operations, such as hacker attack, intrusion or attack of computer virus and temporary closure of websites due to government regulations or actions.
+星游未来对于因您自身原因而披露的任何个人信息（例如，您自愿向他人披露密码或与他人共享帐户时），不承担任何责任。
 
-ASTER PLAY assumes no responsibility for the disclosure of personal particulars or other customer information caused by (i) the other websites linked with our website or referred to in our website, products or services; (ii) third party software or coding incorporated in our website, products or services; or (iii) the incorporation of any part of our products into the websites, products or services provided by third parties, as well as any legal dispute and consequence resulting from any of (i)-(iii).
+星游未来对于因我们无法控制的力量导致的个人信息丢失、披露或伪造，不承担任何责任，包括但不限于可能影响正常网络运作的事件，如黑客攻击、计算机病毒入侵或攻击以及因政府规定或行动而导致网站临时关闭。
 
-ASTER PLAY assumes no responsibility when it or a third party uses your personal information in accordance with provisions of relevant laws or regulations or this privacy policy.
+星游未来对于因以下原因导致的个人详细信息或其他客户信息的披露不承担任何责任：(i) 与我们的网站链接或在我们的网站、产品或服务中提及的其他网站；(ii) 我们的网站、产品或服务中包含的第三方软件或编码；(iii) 将我们产品的任何部分纳入第三方提供的网站、产品或服务中，以及由(i)-(iii)引起的任何法律纠纷和后果。
 
-ASTER PLAY assumes no responsibility when your personal information is disclosed due to unpredictable and inevitable risks of the internet, including without limitation: virus attack, hijacking, temporary site closure or server closure resulted from government control and inevitable technical defects of the software due to technical level at the time of development.
+星游未来对于第三方根据相关法律法规或本隐私政策使用您的个人信息不承担任何责任。
 
-## 5. CHANGES TO THIS PRIVACY POLICY
+星游未来对于因互联网的不可预测和不可避免的风险导致您的个人信息被披露，包括但不限于病毒攻击、劫持、因政府控制而导致的临时网站关闭或服务器关闭以及因开发时的技术水平所导致的不可避免的软件技术缺陷，不承担任何责任。
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+## 5. 隐私政策的变更
 
-**This policy is effective as of February 2, 2021**
+我们可能会不时更新本隐私政策，以反映我们的实践和法律或监管的变化。任何变更都将在我们的应用程序上发布，并在变更生效前通知您。建议您定期查看本隐私政策以了解最新信息。
 
-## 6. CONTACT US
+**该隐私政策自2021年2月2日起生效**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact our ASTER PLAY Data Protection Officer:  dpo@asterplay.com Address: 80 South Bridge Road #04-02 Golden Castle Building, Singapore (058710)
+## 6. 联系我们
+
+如果您对本隐私政策或我们的数据处理有任何问题，请联系我们：dpo@asterplay.com
 
