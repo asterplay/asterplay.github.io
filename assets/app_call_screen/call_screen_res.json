@@ -4,109 +4,127 @@
       "type": "gif",
       "callScreenFileName": "0.gif",
       "placeholder": "0.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "1.mp4",
       "placeholder": "1.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "gif",
       "callScreenFileName": "2.gif",
       "placeholder": "2.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "3.mp4",
       "placeholder": "3.png",
-      "isLocked": true
+      "isLocked": true,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "4.mp4",
       "placeholder": "4.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "5.mp4",
       "placeholder": "5.png",
-      "isLocked": true
+      "isLocked": true,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "6.mp4",
       "placeholder": "6.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "gif",
       "callScreenFileName": "7.gif",
       "placeholder": "7.png",
-      "isLocked": true
+      "isLocked": true,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "8.mp4",
       "placeholder": "8.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "9.mp4",
       "placeholder": "9.png",
-      "isLocked": true
+      "isLocked": true,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "10.mp4",
       "placeholder": "10.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "11.mp4",
       "placeholder": "11.png",
-      "isLocked": true
+      "isLocked": true,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "12.mp4",
       "placeholder": "12.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "13.mp4",
       "placeholder": "13.png",
-      "isLocked": true
+      "isLocked": true,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "14.mp4",
       "placeholder": "14.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "15.mp4",
       "placeholder": "15.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "16.mp4",
       "placeholder": "16.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     },
     {
       "type": "mp4",
       "callScreenFileName": "17.mp4",
       "placeholder": "17.png",
-      "isLocked": false
+      "isLocked": false,
+      "isLocal": false
     }
   ]
 }
