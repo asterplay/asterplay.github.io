@@ -5,7 +5,7 @@
       "callScreenFileName": "0.gif",
       "placeholder": "0.png",
       "isLocked": false,
-      "isLocal": false,
+      "isLocal": true,
       "isLocalPlaceholder": true
     },
     {
@@ -13,7 +13,7 @@
       "callScreenFileName": "1.mp4",
       "placeholder": "1.png",
       "isLocked": false,
-      "isLocal": false,
+      "isLocal": true,
       "isLocalPlaceholder": true
     },
     {
@@ -21,7 +21,7 @@
       "callScreenFileName": "2.gif",
       "placeholder": "2.png",
       "isLocked": false,
-      "isLocal": false,
+      "isLocal": true,
       "isLocalPlaceholder": true
     },
     {
