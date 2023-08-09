@@ -905,4 +905,11 @@ pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 markappmedia.site, 322972, RESELLER
 rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
 
-
+applovin.com, b9a52c6f008707b3f49f7ca6d859fa86, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
